@@ -1,0 +1,93 @@
+[
+    {
+      "recipe_image": "https://i.ibb.co/0X6j5JF/grilledbasilchicken-29.jpg",
+      "recipe_id": 101,
+      "recipe_name": "Grilled Chicken with Basil",
+      "short_description": "A deliciously tender grilled chicken dish with a touch of fresh basil.",
+      "ingredients": [
+        "550 g chicken",
+        "120 ml soy sauce",
+        "200 g basil leaves",
+        "2 cloves garlic",
+        "50 ml olive oil"
+      ],
+      "preparing_time": "30 min",
+      "calories": "320 calories"
+    },
+    {
+      "recipe_image": "https://i.ibb.co/HKfx33G/download.jpg",
+      "recipe_id": 102,
+      "recipe_name": "Classic Spaghetti Bolognese",
+      "short_description": "A hearty Italian pasta dish with a rich meat sauce.",
+      "ingredients": [
+        "400 g spaghetti",
+        "250 g minced beef",
+        "1 onion, chopped",
+        "2 tomatoes, diced",
+        "100 g Parmesan cheese"
+      ],
+      "preparing_time": "45 min",
+      "calories": "420 calories"
+    },
+    {
+      "recipe_image": "https://i.ibb.co/1vdnHSh/download-1.jpg",
+      "recipe_id": 103,
+      "recipe_name": "Vegan Coconut Curry",
+      "short_description": "A creamy coconut-based curry packed with vegetables.",
+      "ingredients": [
+        "200 g carrots",
+        "150 g bell peppers",
+        "400 ml coconut milk",
+        "2 tsp curry powder",
+        "1 tbsp ginger paste"
+      ],
+      "preparing_time": "35 min",
+      "calories": "290 calories"
+    },
+    {
+      "recipe_image": "https://i.ibb.co/VxZL25g/images.jpg",
+      "recipe_id": 104,
+      "recipe_name": "Fluffy Pancakes",
+      "short_description": "Light and fluffy pancakes perfect for a weekend breakfast.",
+      "ingredients": [
+        "200 g all-purpose flour",
+        "250 ml milk",
+        "2 eggs",
+        "50 g sugar",
+        "20 g butter"
+      ],
+      "preparing_time": "20 min",
+      "calories": "350 calories"
+    },
+    {
+      "recipe_image": "https://i.ibb.co/VQTKggC/TMD-June-Pan-Seared-Salmon-Leads-04-Angle.jpg",
+      "recipe_id": 105,
+      "recipe_name": "Pan-Seared Salmon",
+      "short_description": "Crispy skin salmon with a hint of lemon.",
+      "ingredients": [
+        "2 salmon fillets",
+        "1 lemon",
+        "2 tbsp olive oil",
+        "1 tsp salt",
+        "1 tsp black pepper"
+      ],
+      "preparing_time": "25 min",
+      "calories": "400 calories"
+    },
+    {
+      "recipe_image": "https://i.ibb.co/9vZVBht/summer-fruit-salad-recipe-3.jpg",
+      "recipe_id": 106,
+      "recipe_name": "Fresh Fruit Salad",
+      "short_description": "A refreshing salad with a mix of seasonal fruits.",
+      "ingredients": [
+        "200 g strawberries",
+        "150 g blueberries",
+        "1 kiwi, sliced",
+        "100 g watermelon cubes",
+        "1 tbsp honey"
+      ],
+      "preparing_time": "15 min",
+      "calories": "150 calories"
+    }
+  ]
+  
